@@ -429,7 +429,7 @@ class Main:
 			print("    Thanks")
 			exit()
 		elif syed in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/Termux.User.Tera.Next.Pappa'')
+			os.system("xdg-open https://www.facebook.com/Termux.User.Tera.Next.Pappa")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Your  Name")
